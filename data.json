@@ -1,0 +1,28 @@
+{
+	"characters": [
+        {
+            "id": 1,
+            "name": "Darth Vader",
+            "hair_color": "blond",
+            "eye_color": "blue",
+            "gender": "male",
+            "birht_year": "19DBBY"
+        },
+        {
+            "id": 2,
+            "name": "R2-D2",
+            "hair_color": "blond",
+            "eye_color": "blue",
+            "gender": "other",
+            "birht_year": "19DBCBY"
+        },
+        {
+            "id": 3,
+            "name": "C-3PO",
+            "hair_color": "blond",
+            "eye_color": "blue",
+            "gender": "male",
+            "birht_year": "19DABY"
+        }
+    ]
+}
